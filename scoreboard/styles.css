@@ -1,0 +1,40 @@
+table {
+    border: 2px solid green;
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-top: center;
+    margin-bottom: center;*/
+    
+}
+td {
+    border: 2px solid green
+}
+h2 {
+    text-align: center;
+}
+
+.teamA {
+    background-color: rgb(245, 66, 102);
+}
+.teamB {
+    background-color: rgb(59, 196, 238);
+}
+
+#score1 {
+    color: rgb(245, 66, 102);
+}
+#score2 {
+    color: rgb(59, 196, 238);
+}
+#add1 {
+    color: rgb(245, 66, 102);
+}
+#add2 {
+    color: rgb(59, 196, 238);
+}
+
+button {
+    background-color: black;
+}
